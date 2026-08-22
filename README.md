@@ -6,7 +6,7 @@ I'm a passionate developer who enjoys building modern, responsive, and practical
 🚀 I enjoy turning ideas into real projects, learning new technologies, and solving development problems along the way.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rhythm_acharya) [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/rhythm-acharya-985595427/))](https://linkedin.com/in/Rhythm Acharya)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rhythm_acharya) [![LinkedIn](https://www.linkedin.com/in/rhythm-acharya-985595427/))](https://linkedin.com/in/Rhythm Acharya)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rhythmacharya19@gmail.com) 
 
 # 💻 Tech Stack:
